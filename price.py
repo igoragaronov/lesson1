@@ -3,3 +3,4 @@ def format_price(price):
     return f"Цена {price} руб."
 a = format_price(45)
 print(a)
+#изменения для git
